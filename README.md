@@ -14,7 +14,6 @@ This project let me know how to make use of
   It is quite complicated and take some time to figure out how to calling method.
 
 
-
 3. What would make your experience with this assessment better? 
 
 This is hardest assessment or exercise so far. But i gain more knowledge of those what i mentioned. 
